@@ -26,7 +26,7 @@ A content management/cataloguing/database format for management of music files t
 - This is basically GIT minus the history tracking and minus the complexity.
 - FLAC files already contain a fingerprint, but sha256 is preferred as superior (less chance of collision- if it's good enough for GIT...
 
-## Where are the file format specification?
+## Where are the file format specifications?
 
 - There are none at this stage. Although it will be pretty simple there's no point generating anything until we've figured out if the concept has legs and is not a rehash (there's a pun there) of something already in existence.
 
